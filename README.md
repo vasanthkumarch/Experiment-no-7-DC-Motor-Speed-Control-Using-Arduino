@@ -29,5 +29,10 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ### OUTPUT
 
+### GRAPH AND TABULATION 
+
+
+
+
 ### RESULTS AND DISCUSSION 
 
