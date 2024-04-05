@@ -1,4 +1,3 @@
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
 ###  DATE: 
 
 ###  NAME: 
@@ -36,6 +35,8 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 ### OUTPUT
 
 ### GRAPH AND TABULATION 
+![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+
 
 
 ![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/07e9b28e-9a5b-47bd-a023-3c27fe00fb2b)
